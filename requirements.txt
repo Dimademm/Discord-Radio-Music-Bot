@@ -1,0 +1,6 @@
+nextcord
+yt-dlp
+pillow
+requests
+pynacl
+ffmpeg 
